@@ -1,0 +1,221 @@
+.header{
+padding-top: 0px;
+position: fixed;
+/*border: black solid 1px;*/
+width: 100%;
+height: 60px;
+display: flex;
+
+
+}
+
+
+
+.pgicon{
+/*border: rgb(256, 0, 0) solid 1px;*/
+height: auto;
+width: 20%;
+text-align: center;
+
+
+}
+
+.pgic{
+    margin: 10px;
+    width: 100px;
+    height: 40px;
+}
+
+
+.gap{
+    /*
+border:  rgb(256, 0, 0) solid 1px;*/
+width: 60%;
+
+
+
+}
+
+.bgroup{   
+ margin-top: 20px;
+ /*
+ border:  rgb(256, 0, 0) solid 1px;*/
+ display: flex;
+ justify-content: center;
+  width: 20%;
+  height: fit-content;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.container{
+
+/*
+    border: black solid 1px;*/
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
+
+
+.content{
+    
+    margin-top: 80px;
+    /*
+    border:  rgb(256, 0, 0) solid 1px;*/
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    
+    
+    
+}
+
+.txt{
+    /*
+    border:  rgb(0, 0, 256) solid 1px;*/
+    font-size: xx-large;
+    text-align: center;
+    
+}
+
+.search{
+    /*
+    border:  rgb(0, 0, 256) solid 1px;*/
+    display: flex;
+   justify-content: center;
+   
+   
+
+}
+
+ 
+
+
+
+
+
+.page{
+    /*
+    border: black solid 1px;*/
+    width: 100%;
+    height: 400px;
+
+}
+
+.insbox{
+    margin-right: 100px;
+    margin-left: 100px;
+    /*
+    border:  rgb(256, 0, 0) solid 1px;*/
+    height: 100%;
+
+}
+
+.info{
+    margin-top:50px;
+    height: 20%;
+    /*
+    border:  rgb(0, 0, 256) solid 1px;*/
+    text-align: center;
+    font-size: xx-large;
+    
+    
+}
+
+
+.cities{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    height: 40%;
+    /*border:  rgb(0, 0, 256) solid 1px;*/
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    column-gap: 15%;
+    column-width: 35%;
+    width: 100%;
+    
+
+}
+
+.item{
+    height: 90%;
+    
+    border:  rgb(256, 0, 256) solid 1px;
+    border-radius: 100%;
+   
+}
+
+
+
+
+
+
+.footer{
+    /*
+    border: black solid 1px;*/
+    width: 100%;
+    height: 150px;
+    background-color: rgb(69, 67, 67);    
+
+}
+
+.foot{
+     /*
+    border: rgb(256, 0, 0) solid 1px;*/
+    margin-right: 100px;
+    margin-left: 100px;
+    height: 100%;
+    align-content: center;
+   
+    
+    
+}
+
+.cityname{
+    margin-top: 50px;
+    /*
+    border: rgb(0, 0, 256) solid 1px;*/
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    column-gap: 15%;
+    column-width: 35%;
+    width: 100%;
+    
+}
+
+.cityitem{
+    margin-top: 50px;
+    color: beige;
+    height: 90%;
+    /*
+    border:  rgb(256, 0, 256) solid 1px;*/
+
+}
+
+.copy{
+    color: beige;
+    text-align: center;
+ /*   border: rgb(0, 0, 256) solid 1px;*/
+
+}

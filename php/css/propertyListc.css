@@ -1,0 +1,82 @@
+
+.propitem{
+  background-color: rgb(218, 226, 226);
+  /*border: 1px solid black;*/
+  margin-left: 200px;
+  margin-right: 200px;
+  display: flex;
+  align-items: flex-start;}
+
+.imgcl{
+    margin: 1%;
+    width: 30%;
+    /*
+    border: 1px solid red;*/
+}
+
+.otcl{
+    margin: 1%;
+    margin-left: 5%;
+    width: 70%;
+    /*
+    border: 1px solid red;*/
+}
+
+.ratint{
+    display: flex;
+    align-items: flex-start;
+    /*
+    border: 1px solid blue;*/
+}
+
+.rating{
+    /*border: 1px solid pink;
+     */
+}
+
+.inter{
+    margin-left: 65%;
+    /*
+    border: 1px solid pink;*/
+}
+
+.nama{
+
+    /*border: 1px solid blue;
+     */
+}
+
+.nam{
+    font-size: large;
+    /*
+    border: 1px solid blue;*/
+}
+
+.addr{
+    font-size: small;
+    /*
+    border: 1px solid blue;*/
+}
+
+.rateb{
+    display: flex;
+    align-items: flex-start;
+/*   border: 1px solid blue;
+   */
+}
+
+
+.rate{
+    font-size: large;
+    /*
+    border: 1px solid pink;
+     */
+}
+
+.view{
+  
+    margin-left: 70%;
+    /*
+    border: 1px solid rgb(54, 180, 211);
+    */
+}

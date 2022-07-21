@@ -1,0 +1,64 @@
+.profile{
+    /*
+ border: 1px solid black;
+   */
+}
+
+.details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*border: 1px solid black;
+     */
+}
+
+
+.cont{
+   
+    display: flex;
+    width: 80%;
+    
+    border-radius: 2%;
+    -webkit-border-radius: 2%;
+    -moz-border-radius: 2%;
+    -ms-border-radius: 2%;
+    -o-border-radius: 2%;
+}
+
+.pic{
+    width: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+    /*border: 1px solid blue;
+    */
+}
+
+.det{
+    width: 60%;
+    margin-right: 10%;
+    /*border: 1px solid blue;
+     */
+}
+
+.edit{
+    width: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
+    /*border: 1px solid blue;
+    */
+}
+
+
+
+
+.interested{
+    /*border: 1px solid black;
+    */
+}
+
+
+
+
+
+
+
